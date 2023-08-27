@@ -8,3 +8,4 @@
 - #2: Tomada de Decisão e Estruturas de Repetição:
 - #3: Listas, tuplas e dicionários:
 - #4: Funções:
+- #5: Exercícios Extras Python:
