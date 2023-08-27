@@ -46,3 +46,8 @@ print(f'{valor:.2f}')'''
 
 numero = "1" + 2
 print(numero)
+
+'''IF - SE \ ELSE SENAO serve para verificar algo é verdeiro ou falso 
+while enquanto ele fica rodando enquanto uma informacao for verdeira
+for loopings infinitos ele executa para cada informacao que for verdadeira. percorrer listas'''
+
