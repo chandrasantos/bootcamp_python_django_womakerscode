@@ -51,3 +51,28 @@ print(numero)
 while enquanto ele fica rodando enquanto uma informacao for verdeira
 for loopings infinitos ele executa para cada informacao que for verdadeira. percorrer listas'''
 
+# listas = [] armazena nomes em bancos de dados
+''' exemplo: 
+lançar a mao
+lista_frutas = [] 
+lista_frutas.append('maça')
+
+fruta= input('Digite sua fruta:')
+lista_frutas.append(fruta)
+Aqui a pessoa pode preencher o que ela quer.
+
+usa o append para incluir itens na lista 
+
+
+tupla = ('maça', 'uva)
+valores nao podem ser alterados
+tuplas nao sao muito usadas 
+
+dicionários = {}
+ele parece um dicionario do mundo real. um valor associado a um conjunto.
+dicionario = {}
+dicionario['Maça'] = 'é uma fruta'
+dicionario['gato'] = 'é um animal'
+
+'''
+
