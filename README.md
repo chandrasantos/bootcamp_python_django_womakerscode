@@ -11,4 +11,4 @@
 - #5: Exercícios Extras Python: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/5_exercicios_extras_python.py
 
 ## Exercícios Python - Semana 3
-- #6: Orientação a objetos: 
+- #6: Orientação a objetos: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/6_lista-de-exercicios_carro.py
