@@ -2,19 +2,19 @@
 ## No entanto, ele não está funcionando bem. Você pode consertá-lo?
 
 def calcular_media(valores):
-    tamanho = 1
-    soma = 0.0
-    for i, valor in enumerate(valores):
+    soma = 0
+    for valor in valores:
         soma += valor
-        i += 1
-    media = soma / tamanho
+    return soma / len(valores)
 
 continuar = True
 valores = []
 while continuar:
     valor = input('Digite um número para entrar na sua média ou "ok" para calcular o valor:')
     if valor.lower() == 'ok':
-        continuar = false
+        continuar = False
+    else:
+        valores.append(float(valor))
 
 media = calcular_media(valores)
 print('A média calculada para os valores {} foi de {}'.format(valores, media))
