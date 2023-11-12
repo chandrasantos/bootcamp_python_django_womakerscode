@@ -12,5 +12,5 @@
 
 ## Exercícios Python - Semana 3
 - #6: Orientação a objetos (classes e objetos): https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/6_lista-de-exercicios_carro.py
-- 7#: Orientação a objetos (classes abstratas): 
-- 8#: Orientação a objetos (erros e excessões):
+- 7#: Orientação a objetos (classes abstratas): https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/7_lista-de-exercicios-2_contabancaria.py
+- 8#: Orientação a objetos (erros e excessões): https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/8_lista-de-exercicios-3_media.py
