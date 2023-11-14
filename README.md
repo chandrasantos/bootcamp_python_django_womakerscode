@@ -10,6 +10,8 @@ Fazem parte da ementa:
 
 ## Anotações das aulas de Python: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/0_anotacoes_teoricas.py
 
+### A documentação dos exercícios está dentro dos próprios arquivos.
+
 ## Exercícios Python - Semana 2
 
 - #1: Conceitos básicos de Python: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/1_exercicios_conceitos_basicos_python.py
