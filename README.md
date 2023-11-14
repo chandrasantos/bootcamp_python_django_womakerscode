@@ -1,6 +1,14 @@
-# Bootcamp Desenvolvimento Back-End Python e Django da WoMakersCode
- 
-## Insights das aulas: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/0_anotacoes_teoricas.py
+# Bootcamp Back-End Python e Django da WoMakersCode (109 horas) com patrocinio Ifood/Potência Tech e Microsoft.
+
+Formação de 3,5 meses em Python, abordando os conceitos da linguagem, principais frameworks de desenvolvimento web e integração com Inteligência Artificial.
+O Bootcamp Back-end Python possui um formato híbrido, com aulas ao vivo e módulos com conteúdo gravado e sessões de mentoria para tirar dúvidas semanalmente.
+Fazem parte da ementa:
+- Algoritmos e Orientação a Objetos em Python, Estrutura de Dados
+- Desenvolvimento de APIs com FastAPI Django, Arquitetura e Testes
+- Git, GitHub, Banco de Dados, Computação em Nuvem
+- Soft skills, plano de carreira, empregabilidade, revisão de currículo e muito mais
+
+## Anotações das aulas de Python: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/0_anotacoes_teoricas.py
 
 ## Exercícios Python - Semana 2
 
