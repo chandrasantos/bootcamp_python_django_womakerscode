@@ -14,11 +14,11 @@ Fazem parte da ementa:
 
 - #1: Conceitos básicos de Python: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/1_exercicios_conceitos_basicos_python.py
   
-- #2: Tomada de Decisão e Estruturas de Repetição: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/2_exercicios_tomada_%20decisao_estruturas_repeticao
+- #2: Tomada de Decisão e Estruturas de Repetição: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/2_exercicios_tomada_%20decisao_estruturas_repeticao.py
   
-- #3: Listas, tuplas e dicionários: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/3_exercicios_listas_tuplas_dicionarios
+- #3: Listas, tuplas e dicionários: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/3_exercicios_listas_tuplas_dicionarios.py
   
-- #4: Funções [Desafio 1]: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/4_exercicios_funcoes
+- #4: Funções [Desafio 1]: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/4_exercicios_funcoes.py
   
 - #5: Exercícios Extras Python [Desafio 1]: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/5_exercicios_extras_python.py
 
@@ -33,7 +33,9 @@ Fazem parte da ementa:
 
 ## Exercícios API Rest - Semana 4 [Desafio 3]
 -#10: Atividade extra Http Put Requests:
+
 -#11: Exercícios APIs:
+
 -#12: DesafioFastAPI:
 
 ## Exercícios Inteligência Artificial e Python - Semana 5
