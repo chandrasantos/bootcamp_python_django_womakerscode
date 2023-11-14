@@ -18,3 +18,7 @@
 
 ## Exercícios API Rest - Semana 4
 -#10:
+
+## Exercícios Inteligência Artificial e Python - Semana 5
+-#11: Utilizando Flask para criar um web app com IA:
+-#12: Explore o espaço com o Python e o Visual Studio Code:
