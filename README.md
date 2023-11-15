@@ -40,10 +40,10 @@ Fazem parte da ementa:
 
 -#12: DesafioFastAPI:
 
-## Exercícios Inteligência Artificial e Python - Semana 5: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/tree/main/Desafio%205%20-%20Pandas/over-the-moon/sample-return
+## Exercícios Inteligência Artificial e Python - Semana 5: 
 -#13: Utilizando Flask para criar um web app com IA [Desafio 4]: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/tree/main/Desafio%204%20-%20Flask/contoso
 
--#14: Explore o espaço com o Python e o Visual Studio Code [Desafio 5]:
+-#14: Explore o espaço com o Python e o Visual Studio Code [Desafio 5]: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/tree/main/Desafio%205%20-%20Pandas/over-the-moon/sample-return
 
 
 
