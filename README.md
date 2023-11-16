@@ -12,6 +12,8 @@ Fazem parte da ementa:
 
 ### A documentação dos exercícios está dentro dos próprios arquivos.
 
+### Forked Python: https://github.com/chandrasantos/back-end-python
+
 ## Exercícios Python - Semana 2
 
 - #1: Conceitos básicos de Python: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/1_exercicios_conceitos_basicos_python.py
@@ -45,5 +47,6 @@ Fazem parte da ementa:
 
 -#14: Explore o espaço com o Python e o Visual Studio Code [Desafio 5]: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/tree/main/Desafio%205%20-%20Pandas/over-the-moon/sample-return
 
-
+## Anotações das aulas de Django: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/10_anotacoes_teoricas_django.py
+### Forked Django: https://github.com/chandrasantos/Sistema-Cadastro-Cursos-chandra 
 
