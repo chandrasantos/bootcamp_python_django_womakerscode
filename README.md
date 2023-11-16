@@ -50,6 +50,7 @@ Fazem parte da ementa:
 -#15: Criar aplicação Serverless (Azure) [Desafio 6]: Ementa: https://learn.microsoft.com/pt-br/training/paths/build-serverless-full-stack-apps-azure/ {pendente}
 
 -#16: Testes com Unittest e Pytest {pendente}
+
 Curso 1: Introdução a testes no Python :
 https://learn.microsoft.com/pt-br/training/modules/python-get-started-testing/
 
