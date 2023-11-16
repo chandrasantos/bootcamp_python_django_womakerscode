@@ -50,3 +50,11 @@ Fazem parte da ementa:
 ## Anotações das aulas de Django: https://github.com/chandrasantos/bootcamp_python_django_womakerscode/blob/main/10_anotacoes_teoricas_django.py
 ### Forked Django: https://github.com/chandrasantos/Sistema-Cadastro-Cursos-chandra 
 
+
+
+
+
+
+# DESAFIO FINAL: criar um blog
+### Orientações:
+
