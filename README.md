@@ -57,4 +57,7 @@ Fazem parte da ementa:
 
 # DESAFIO FINAL: criar um blog
 ### Orientações:
+A aluna deve enviar um link do GitHub com o código desenvolvido e do site hospedado em um provedor. 
+A aluna deverá gravar um vídeo apresentando as funcionalidades do projeto, compartilhando as facilidades e dificuldades da resolução. Esse mesmo vídeo será utilizado para a formatura. A apresentação deverá ter no máximo 5 minutos.
+
 
