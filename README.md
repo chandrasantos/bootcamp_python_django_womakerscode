@@ -73,7 +73,7 @@ envolvente Sistema de Blog com Django.
 
 Este projeto desafia as alunas a criar um ambiente de desenvolvimento Django em seus computadores, aplicando as melhores práticas e conceitos de controle de versão. Além disso, o projeto proporciona a oportunidade de construir um blog responsivo com recursos robustos, integrando elementos como banco de dados, gerenciamento de conteúdo e interatividade.
 
-- Repositório no GitHub Desafio Final Blog: https://github.com/chandrasantos/bloglanadelrey
+- Repositório no GitHub Desafio Final Blog: https://github.com/chandrasantos/blog-data-analytics
 
 - Publicado:
 
