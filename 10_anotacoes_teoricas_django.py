@@ -25,4 +25,6 @@
 #Github: SistemaCadastroCursos/aula_admin
 #Github: SistemaCadastroCursos/aula_validacoes
 #Github: SistemaCadastroCursos/aula_cache
-
+#Github: SistemaCadastroCursos/aula_criando_rest
+#Github: SistemaCadastroCursos/aula_http_e_rest
+#Github: SistemaCadastroCursos/serializer
